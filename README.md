@@ -1,9 +1,17 @@
 # JavaScript Individual Challenge
 
--[x] Describe the abstract steps that you could use again to learn another new language (for example: learning by translation)
--[x] Describe what concrete actions you took whilst learning JavaScript
--[x] Include links to code you have written in JavaScript, for example FizzBuzz, Airport, Thermostat and any another code exercises
--[x] Write up some self-reflections about what went well and what didn't go so well whilst you were learning JavaScript
+# Part 1: Learning a new programming language
+  -[x] Describe the abstract steps that you could use again to learn another new language (for example: learning by translation)
+  -[x] Describe what concrete actions you took whilst learning JavaScript
+  -[x] Include links to code you have written in JavaScript, for example FizzBuzz, Airport, Thermostat and any another code exercises
+  -[x] Write up some self-reflections about what went well and what didn't go so well whilst you were learning JavaScript
+
+# Part 2: User Stories completed
+  ```
+  As an air traffic controller
+  So I can get passengers to a destination
+  I want to instruct a plane to land at an airport
+  ```
 
 
 ## Process for learning a new language:
